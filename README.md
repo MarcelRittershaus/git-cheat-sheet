@@ -21,6 +21,7 @@ format that includes a **type**, a **scope** and a **subject**:
 <BLANK LINE>
 <footer>
 ```
+<MaMaison>Spécial dédicace à Julien Hatzig.<MaMaison>
 
 The **header** is mandatory and the **scope** of the header is optional.
 

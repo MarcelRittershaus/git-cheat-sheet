@@ -1,5 +1,7 @@
 # Git Cheat Sheet
 -- Mise à jour FPR
+muhmiuhvbhg fv ingfj;v,bn y
+
 ## Git Commit Guidelines
 
 We have very precise rules over how our git commit messages can be formatted.  This leads to **more
@@ -21,6 +23,7 @@ format that includes a **type**, a **scope** and a **subject**:
 <BLANK LINE>
 <footer>
 ```
+<MaMaison>Spécial dédicace à Julien Hatzig.<MaMaison>
 
 The **header** is mandatory and the **scope** of the header is optional.
 
